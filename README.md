@@ -1,6 +1,6 @@
 # -百川Cursor助手-
 
-# 一款帮助你使用 Cursor 的工具，支持 Windows、macOS 等全平台
+# 一款帮助你使用 Cursor 的工具，支持 Windows、macOS 等全平台,支持最新版本0.49.x
 
 # 软件特点
  跨平台支持 （Windows\macOS）无需翻墙，无需注册cursor官网账号。
