@@ -13,7 +13,7 @@
 https://rtmpla.cn/Download-web/BC-Cursor/index.html
 
 # 购买方式：
-@客服：W-071110XJY
+@作者：W-071110XJY
 
 @咸鱼：百川科技
 
